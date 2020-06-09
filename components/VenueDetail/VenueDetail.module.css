@@ -1,0 +1,39 @@
+.vdname{
+  margin:0;
+  margin-left:32px;
+  font-size: 18px;
+font-family:sans-serif;
+  color: #636363;
+}
+
+.vdheader{
+  font-size: 19px;
+  margin-bottom: 0px;
+    color: black;
+    font-family:sans-serif;
+
+}
+
+.iconOrgnizerName:before {
+  content: "\e916";
+  font-family:'icomoon';
+    float: left;
+}
+
+.iconPhone:before {
+  content: "\e91a";
+  font-family:'icomoon';
+    float: left;
+}
+
+.iconEmail5:before {
+  content: "\e907";
+  font-family:'icomoon';
+    float: left;
+}
+
+.iconWebsite:before {
+  content: "\e900";
+  font-family:'icomoon';
+    float: left;
+}

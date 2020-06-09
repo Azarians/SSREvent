@@ -1,0 +1,17 @@
+.descheader{
+  font-size: 19px;
+  margin-bottom: 0px;
+  color: black;
+  font-family:sans-serif;
+
+}
+
+.decdesc hr{
+    margin-top: 3px;
+
+}
+
+.desc img{
+  width: 30%;
+  margin-top: 14px
+}

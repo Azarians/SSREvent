@@ -1,0 +1,46 @@
+.asheader{
+  margin-bottom: 0px;
+  color: black;
+  font-size: 19px;
+  font-family:sans-serif;
+}
+
+.addto, .share{
+  margin:0;
+  font-size: 18px;
+}
+
+.share{
+  float: left;
+}
+
+.fb{
+  margin-left: 20px;
+  margin-right: 5px;
+  user-select: none;
+  text-decoration: none;
+  outline: none
+
+}
+
+.tw{
+   margin-right: 6px;
+}
+
+.rd{
+  margin-right: 5px
+}
+
+.copyLink{
+  user-select: none;
+  text-decoration: none;
+  outline: none;
+  height: 30px;
+  cursor: pointer;
+}
+
+.bt{
+  float: right;
+  display:inline-block;
+
+}

@@ -1,0 +1,55 @@
+.general{
+  margin-top: 17%;
+
+  margin-bottom: 0px;
+}
+
+.general hr{
+  margin-top: 3px;
+
+}
+
+.giname{
+  margin:0;
+  margin-left:32px;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #636363;
+  margin-bottom: 4px
+}
+.giheader{
+  font-size: 19px;
+  margin-bottom: 0px;
+  color: black;
+  font-family:sans-serif;
+}
+
+.iconEventtitle:before {
+font-family:'icomoon';
+  content: "\e909";
+  float: left;
+
+
+}
+
+.iconStarttime:before {
+  font-family:'icomoon';
+  content: "\e91b";
+  float: left;
+
+}
+
+.iconEndtime:before {
+  content: "\e908";
+  float: left;
+  font-family:'icomoon';
+
+}
+
+.iconLocation:before {
+  content: "\e90f";
+  font-family:'icomoon';
+  float: left;
+
+
+}
