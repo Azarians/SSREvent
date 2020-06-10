@@ -13,10 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-meta-tags": "^0.7.4",
+    "react-router-dom": "^5.2.0",
     "react-timeout": "^1.2.0",
     "xmlhttprequest": "^1.8.0"
   }
